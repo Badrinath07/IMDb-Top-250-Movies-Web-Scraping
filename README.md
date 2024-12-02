@@ -15,6 +15,11 @@ The purpose of this project is to retrieve IMDb's Top 250 movies list by scrapin
 - `requests`: To send HTTP requests to the IMDb website.
 - `BeautifulSoup`: To parse HTML content and extract relevant movie data.
 - `csv`: For storing the extracted data in structured formats.
+## Features
+- Scraping IMDb Top 250 movies data using Python
+- Display movie details such as title, year, genre, director, actors, and rating
+- Ability to filter movies by year, rating, or genre
+- Export the data to a CSV or Excel file for offline use
   
 ## Installation Instructions
 
